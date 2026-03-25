@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright
 import json
 
-REGISTER_NO = "19140715"
+REGISTER_NO = "YOUR_REGISTRATION_NUMBER"
 BASE_URL = "http://exam.cusat.ac.in/erp5/cusat/Cusat-Home/home_oldresults"
 
 
