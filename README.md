@@ -57,11 +57,16 @@ BASE_URL = "http://exam.cusat.ac.in/erp5/cusat/Cusat-Home/home_oldresults"
 
 ## Usage
 
+
 Run the script from the terminal:
 
 ```bash
-python trtd.py
+
+
+python main.py
 ```
+
+After running, your results will be saved automatically as `all_results.json` in the project directory. This file contains all the extracted and processed result data in JSON format for further use or analysis.
 
 The bot will:
 1. Open the CUSAT old results page in a browser
