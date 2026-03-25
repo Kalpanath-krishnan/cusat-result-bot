@@ -60,7 +60,7 @@ BASE_URL = "http://exam.cusat.ac.in/erp5/cusat/Cusat-Home/home_oldresults"
 Run the script from the terminal:
 
 ```bash
-python main.py
+python trtd.py
 ```
 
 The bot will:
